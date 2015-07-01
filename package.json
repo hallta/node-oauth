@@ -9,8 +9,8 @@
     "vows": "0.5.x"
   }
 , "dependencies": {
-    "http-sync": "0.0.5",
-}
+    "http-sync": "0.0.5"
+  }
 , "scripts": {
     "test": "make test"
   }

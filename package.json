@@ -10,7 +10,7 @@
   }
 , "dependencies": {
     "http-sync": "0.0.5",
-},
+}
 , "scripts": {
     "test": "make test"
   }
